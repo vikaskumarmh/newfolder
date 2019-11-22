@@ -1,0 +1,5 @@
+Merge the changes and update on GitHub.
+=================================================
+git checkout master
+git merge --no-ff yourbranch
+git push origin master
